@@ -145,8 +145,9 @@ An Inquiry Into the Nature and Causes of the Wealth of Nations by Adam Smith
 
 https://raw.githubusercontent.com/mkrupczak3/China-Studies-Adam-Smith-With-State-Capitalism/master/3300-0%20An%20Inquiry%20into%20the%20Nature%20and%20Causes%20of%20the%20Wealth%20of%20Nations%2C%20by%20Adam%20Smith.txt
 
-https://www.amazon.com/%E5%9B%BD%E5%AF%8C%E8%AE%BA-%E6%9D%83%E5%A8%81%E5%85%A8%E8%AF%91%E6%9C%AC%EF%BC%8C%E6%B3%A8%E9%87%8A%E6%9C%80%E5%85%A8%E9%9D%A2-%EF%BC%88%E9%80%82%E5%90%88%E5%A4%A7%E4%BC%97%E9%98%85%E8%AF%BB%E7%9A%84%E7%89%88%E6%9C%AC%EF%BC%89-%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C-Chinese-ebook/dp/B07B8BNCCF
+https://www.amazon.com/%E5%9B%BD%E5%AF%8C%E8%AE%BA-%E6%9D%83%E5%A8%81%E5%85%A8%E 8%AF%91%E6%9C%AC%EF%BC%8C%E6%B3%A8%E9%87%8A%E6%9C%80%E5%85%A8%E9%9D%A2-%EF%BC%88%E9%80%82%E5%90%88%E5%A4%A7%E4%BC%97%E9%98%85%E8%AF%BB%E7%9A%84%E7%89%88%E6%9C%AC%EF%BC%89-%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C-Chinese-ebook/dp/B07B8BNCCF
 
 # News 
 
   https://www.economist.com/leaders/2020/08/13/xi-jinping-is-reinventing-state-capitalism-dont-underestimate-it
+  https://raw.githubusercontent.com/mkrupczak3/China-Studies-Adam-Smith-With-State-Capitalism/master/Xi%20Jinping%20is%20reinventing%20state%20capitalism.%20Don%E2%80%99t%20underestimate%20it.pdf
