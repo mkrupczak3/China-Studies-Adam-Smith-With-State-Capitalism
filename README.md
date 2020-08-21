@@ -1,5 +1,7 @@
 # China-Studies-Adam-Smith-With-State-Capitalism
 
+[Planet_Money_EP_553.mph](https://raw.github.com/mkrupczak3/China-Studies-Adam-Smith-With-State-Capitalism/blob/master/20180207_pmoney_pmpodrerun337-609e2992-25b5-4d9f-8714-3a4b7ab351d1.mp3_bc241093a5c88ad4d3cfa87d09eaf65e_17222705.mp3)
+
 In 1978, the farmers in a small Chinese village called Xiaogang gathered in a mud hut to sign a secret contract. They thought it might get them executed. Instead, it wound up transforming China's economy in ways that are still reverberating today. 
 
 
