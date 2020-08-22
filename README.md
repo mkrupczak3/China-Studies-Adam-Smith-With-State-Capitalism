@@ -150,4 +150,5 @@ https://www.amazon.com/%E5%9B%BD%E5%AF%8C%E8%AE%BA-%E6%9D%83%E5%A8%81%E5%85%A8%E
 # News 
 
   https://www.economist.com/leaders/2020/08/13/xi-jinping-is-reinventing-state-capitalism-dont-underestimate-it
-  https://raw.githubusercontent.com/mkrupczak3/China-Studies-Adam-Smith-With-State-Capitalism/master/Xi%20Jinping%20is%20reinventing%20state%20capitalism.%20Don%E2%80%99t%20underestimate%20it.pdf
+ 
+ https://raw.githubusercontent.com/mkrupczak3/China-Studies-Adam-Smith-With-State-Capitalism/master/Xi%20Jinping%20is%20reinventing%20state%20capitalism.%20Don%E2%80%99t%20underestimate%20it.pdf
